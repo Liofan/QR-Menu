@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="" />
+    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +220,7 @@
       <workItem from="1615809529680" duration="16422000" />
       <workItem from="1616057422091" duration="46327000" />
       <workItem from="1616688500364" duration="1356000" />
-      <workItem from="1616694391138" duration="143000" />
+      <workItem from="1616694391138" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="One Commit">
       <created>1615067524297</created>
@@ -333,18 +336,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615317289552" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1615150207786">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1616694681091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615150207786" />
-    <state x="838" y="417" key="Github.ShareDialog" timestamp="1615067381445">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616694681091" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1616694861849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615067381445" />
-    <state x="732" y="224" key="Github.UntrackedFilesDialog" timestamp="1615067393806">
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616694861849" />
+    <state x="732" y="224" key="Github.UntrackedFilesDialog" timestamp="1616694869573">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="732" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615067393806" />
+    <state x="732" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616694869573" />
     <state x="1275" y="446" key="NewPhpFileDialog" timestamp="1615153335761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
