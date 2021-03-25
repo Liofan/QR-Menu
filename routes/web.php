@@ -15,7 +15,7 @@ use App\Http\Controllers\ProductController;
 
 
 Route::get('/med', [App\Http\Controllers\ProductController::class, 'index'])->name('med_index');
-Route::get('/med/{id?}', [App\Http\Controllers\ProductController::class, 'index'])->name('med_index');
+Route::get('/med/{id?}', [App\Http\Controllers\ProductController::class, 'index'])->name('med_index_cat');
 
 Route::get('/med/cat/{id}', [App\Http\Controllers\ProductController::class, 'cat'])->name('med_cat');
 
