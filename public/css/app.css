@@ -1,0 +1,309 @@
+
+/* Categoris*/
+
+.cat_link {
+}
+
+.lSPager {
+    display: none;
+}
+
+.categor {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+.cat_items {
+    font-size: 14px;
+    color: #2a3f59;
+    font-weight: 500;
+    border: 1px solid #2a3f59;
+    list-style: none;
+    /*padding: 0 5px;*/
+    /*margin: 0 5px;*/
+    /*border-radius: 10%;*/
+
+
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+    margin-right: 5px;
+    margin-right: .3125rem;
+    border-radius: 12px;
+    border: 1px solid #e5e5e5;
+
+}
+
+
+
+/* END CAT*/
+
+.cat-img {
+    width: 25%;
+}
+
+a {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+h3, h5, h6 {
+    color: black;
+}
+.info {
+    margin-top: 10px;
+    padding: 10px 0;
+    border-radius: 10px;
+    border: 1px solid red;
+    width: 351px;
+    height: 96px;
+}
+
+.info_img {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-right: 12px;
+}
+
+.info_title {
+    display: inline-flex;
+}
+
+.categor {
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.image {
+    position	: relative;
+    width		: 100%;
+    background-color:rgba(0,0,0,.3);
+}
+
+.card-title {
+    position	: absolute;
+    top		: 35%;
+    left		: 40%;
+    color: white;
+}
+
+
+.text,
+input[type="checkbox"] {
+    display: none;
+}
+
+input[type="checkbox"]:checked ~ .text {
+    display: block;
+}
+
+
+
+.price {
+    margin-top: 10px;
+    float: right;
+}
+
+
+
+/* prod list*/
+
+
+.text-gray {
+    color: #aaa
+}
+
+
+.img_prod {
+    width: 250px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cat {
+    display: flex;
+}
+
+.prod_close {
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border: solid 2px #E5E5E5;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.9); /* Параметры тени */
+}
+
+.list-group {
+    border-top: 1px solid #E5E5E5;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    background-color: #fff;
+
+}
+
+
+
+
+
+.title  {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.title-prod {
+    padding-top: 10px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.main-link {
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.list-groupp {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.list-group-item {
+    border: none;
+    border-radius: none;
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+
+.price-prod {
+    margin-top: 10px;
+
+}
+
+.add_cart {
+    display: block;
+    float: right;
+}
+
+.kolicestvo {
+
+    float: right;
+    display: none;
+}
+
+
+/* Стили для кнопки количества продукции */
+.quantity {
+    padding: 2px 0;
+    width: 45px;
+    text-align: center;
+}
+
+.inline-group {
+    max-width: 9rem;
+    padding: .5rem;
+}
+
+.inline-group  {
+    text-align: right;
+}
+
+.form-control[type="number"]::-webkit-inner-spin-button,
+.form-control[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+/* Конец */
+
+
+
+
+
+/*  Выбор меню СТИЛИ */
+
+/*Styling Selectbox*/
+.dropdown {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: #DCDCDD;
+    border-radius: 2px;
+    box-shadow: 0 0 2px rgb(204, 204, 204);
+    transition: all .5s ease;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 10px 0;
+    color: #474747;
+}
+.dropdown .select {
+    cursor: pointer;
+    display: block;
+    padding: 10px
+}
+.dropdown .select > i {
+    font-size: 13px;
+    color: #888;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    float: right;
+    line-height: 20px
+}
+.dropdown:hover {
+    box-shadow: 0 0 4px rgb(204, 204, 204)
+}
+.dropdown:active {
+    background-color: #f8f8f8
+}
+.dropdown.active:hover,
+.dropdown.active {
+    box-shadow: 0 0 4px rgb(204, 204, 204);
+    border-radius: 2px 2px 0 0;
+    background-color: #f8f8f8
+}
+.dropdown.active .select > i {
+    transform: rotate(-90deg)
+}
+.dropdown .dropdown-menu {
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    left: 0;
+    margin-top: 1px;
+    box-shadow: 0 1px 2px rgb(204, 204, 204);
+    border-radius: 0 1px 2px 2px;
+    overflow: hidden;
+    display: none;
+    max-height: 144px;
+    overflow-y: auto;
+    z-index: 9
+}
+.dropdown .dropdown-menu li {
+    padding: 10px;
+    transition: all .2s ease-in-out;
+    cursor: pointer
+}
+.dropdown .dropdown-menu {
+    padding: 0;
+    list-style: none
+}
+.dropdown .dropdown-menu li:hover {
+    background-color: #f2f2f2
+}
+.dropdown .dropdown-menu li:active {
+    background-color: #e2e2e2
+}
