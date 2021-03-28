@@ -26,7 +26,7 @@
             <div class="info">
                 <input type="checkbox" id="pseudoBtn">
                 <label for="pseudoBtn" class="btn">^</label>
-                <img class="info_img" src="https://firebasestorage.googleapis.com/v0/b/qrmenu-dc412.appspot.com/o/FvpePoHBAJf3L2M5oBhYMpcC6Vs2%2Fmenu%2Fthumbs%2F7gzzumdjmangi8de5ybrb9jd6xmz5j0b_800x800?alt=media&amp;token=6ed46e79-0f9f-47f1-b57d-f09d2845839e" class="preview-header__avatar">
+                <img class="info_img" src="img/med_logo.png" class="preview-header__avatar">
 
 
                 <h5 class="info_title">МЁД</h5>
