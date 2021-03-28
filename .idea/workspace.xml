@@ -217,7 +217,7 @@
       <workItem from="1615809529680" duration="16422000" />
       <workItem from="1616057422091" duration="46327000" />
       <workItem from="1616688500364" duration="1356000" />
-      <workItem from="1616694391138" duration="4334000" />
+      <workItem from="1616694391138" duration="4649000" />
     </task>
     <task id="LOCAL-00001" summary="One Commit">
       <created>1615067524297</created>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616958355833</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Оптимизация файлов скачал и указал локальный путь.">
+      <created>1616958560712</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616958560712</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,10 +356,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616541183096" />
-    <state x="585" y="4" key="CommitChangelistDialog2" timestamp="1616958355391">
+    <state x="585" y="4" key="CommitChangelistDialog2" timestamp="1616958560336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="4" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958355391" />
+    <state x="585" y="4" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958560336" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1615317289552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -377,10 +384,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616694533761" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1616958356973">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1616958562024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958356973" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958562024" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616698317493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
