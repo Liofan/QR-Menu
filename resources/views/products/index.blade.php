@@ -17,7 +17,7 @@
                     @foreach($group_menus as $g_menu)
 
 
-                        <a href="{{ url('products/' . $g_menu->id) }}"><li id="{{$g_menu->id}}">{{$g_menu->name}}</li></a>
+                        <a href="{{ url('med/' . $g_menu->id) }}"><li id="{{$g_menu->id}}">{{$g_menu->name}}</li></a>
 
                     @endforeach
                 </ul>
