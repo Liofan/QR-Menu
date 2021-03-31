@@ -10,8 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="Исправления загрузки js файлоы">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +227,7 @@
       <workItem from="1616057422091" duration="46327000" />
       <workItem from="1616688500364" duration="1356000" />
       <workItem from="1616694391138" duration="4649000" />
-      <workItem from="1617180467600" duration="719000" />
+      <workItem from="1617180467600" duration="1927000" />
     </task>
     <task id="LOCAL-00001" summary="One Commit">
       <created>1615067524297</created>
@@ -308,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616958560712</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Исправления загрузки js файлоы">
+      <created>1617181563279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617181563279</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +366,7 @@
     <MESSAGE value="prolider add" />
     <MESSAGE value="optimization" />
     <MESSAGE value="Оптимизация файлов скачал и указал локальный путь." />
-    <option name="LAST_COMMIT_MESSAGE" value="Оптимизация файлов скачал и указал локальный путь." />
+    <MESSAGE value="Исправления загрузки js файлоы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправления загрузки js файлоы" />
   </component>
 </project>
