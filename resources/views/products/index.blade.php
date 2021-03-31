@@ -67,33 +67,33 @@
 
                   {{-- Categories --}}
                 @foreach($categories as $cat )
-
-                    <h3 class="title" id="{{$cat->name}}">{{$cat->name}}</h3>
-
-
-                       {{-- Products --}}
-                       @foreach($cat->products as $product)
+                    @if($cat->publication == 1)
+                        <h3 class="title" id="{{$cat->name}}">{{$cat->name}}</h3>
 
 
-                        @if($product->publication == 1)
-                            <a class="main-link"   href="/med/cat/{{$product->id}}">
-                                <meta name="csrf-token" content="{{ csrf_token() }}">
-                                <li class="list-group-item">
-                                    <!-- Custom content-->
-                                    <div class="media align-items-lg-center flex-column flex-lg-row p-3">
+                           {{-- Products --}}
+                           @foreach($cat->products as $product)
 
-                                        <div class="media-body order-2 order-lg-1 ">
-                                            <h5 class="mt-0 font-weight-bold mb-2">{{$product->name}}</h5>
 
-                                            <h6 class="font-weight-bold my-2 price">{{$product->price}} &#8376;</h6>
+                            @if($product->publication == 1)
+                                <a class="main-link"   href="/med/cat/{{$product->id}}">
+                                    <meta name="csrf-token" content="{{ csrf_token() }}">
+                                    <li class="list-group-item">
+                                        <!-- Custom content-->
+                                        <div class="media align-items-lg-center flex-column flex-lg-row p-3">
 
-                                        </div>
-                                    </div> <!-- End -->
-                                </li> <!-- End -->
-                            </a>
-                        @endif
-                       @endforeach
+                                            <div class="media-body order-2 order-lg-1 ">
+                                                <h5 class="mt-0 font-weight-bold mb-2">{{$product->name}}</h5>
 
+                                                <h6 class="font-weight-bold my-2 price">{{$product->price}} &#8376;</h6>
+
+                                            </div>
+                                        </div> <!-- End -->
+                                    </li> <!-- End -->
+                                </a>
+                            @endif
+                           @endforeach
+                    @endif
                 @endforeach
 
             </ul> <!-- End -->
