@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="" />
+    <list default="true" id="e09be137-f8c9-49b9-aca0-cc6340da9b3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,6 +177,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -218,6 +222,7 @@
       <workItem from="1616057422091" duration="46327000" />
       <workItem from="1616688500364" duration="1356000" />
       <workItem from="1616694391138" duration="4649000" />
+      <workItem from="1617180467600" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="One Commit">
       <created>1615067524297</created>
@@ -350,59 +355,5 @@
     <MESSAGE value="optimization" />
     <MESSAGE value="Оптимизация файлов скачал и указал локальный путь." />
     <option name="LAST_COMMIT_MESSAGE" value="Оптимизация файлов скачал и указал локальный путь." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1616541183096">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616541183096" />
-    <state x="585" y="4" key="CommitChangelistDialog2" timestamp="1616958560336">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="585" y="4" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958560336" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1615317289552">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615317289552" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1616694681091">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616694681091" />
-    <state x="838" y="417" key="Github.ShareDialog" timestamp="1616694861849">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616694861849" />
-    <state x="732" y="224" key="Github.UntrackedFilesDialog" timestamp="1616694869573">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="732" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616694869573" />
-    <state x="1275" y="446" key="NewPhpFileDialog" timestamp="1615153335761">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1275" y="446" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615153335761" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1616694533761">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616694533761" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1616958562024">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616958562024" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616698317493">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616698317493" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615832623456">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615832623456" />
-    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1615067603263">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1615067603263" />
-    <state x="791" y="293" key="svn4idea.import.options" timestamp="1615067601783">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="791" y="293" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1615067601783" />
   </component>
 </project>
